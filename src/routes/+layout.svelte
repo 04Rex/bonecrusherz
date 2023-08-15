@@ -2,7 +2,7 @@
 	import Header from './Header.svelte';
 	import './styles.css';
 	import { inject } from '@vercel/analytics';
-	inject(mode: "production");
+	inject({mode: "production"});
 </script>
 
 <div class="app">
