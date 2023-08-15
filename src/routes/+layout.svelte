@@ -2,8 +2,8 @@
 	import Header from './Header.svelte';
 	import './styles.css';
 	import { inject } from '@vercel/analytics';
-	import { webVitals } from '../lib/vitals';
-	import { browser } from '$app/env';
+	import { webVitals } from '$lib/vitals.js';
+	import { browser } from '$app/environment';
 	import { page } from '$app/stores';
 	import '../app.css';
 
