@@ -22,7 +22,7 @@
 		"@neoconfetti/svelte": "^1.0.0",
 		"@playwright/test": "^1.28.1",
 		"@sveltejs/adapter-auto": "^2.1.0",
-		"@sveltejs/kit": "^1.20.4",
+		"@sveltejs/kit": "^1.27.6",
 		"@types/cookie": "^0.5.1",
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
